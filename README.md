@@ -1,5 +1,5 @@
 # Scraping Top Repos for Top Topics on GitHub
-##Introduction to web scraping
+## Introduction to web scraping
 - Web scraping is the process of extracting data from a specific web page. It involves making an HTTP request to a website’s server, downloading the page’s HTML and parsing it to extract the desired data.
 
 ## Problem Statement
